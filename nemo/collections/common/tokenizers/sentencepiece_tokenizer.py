@@ -229,7 +229,7 @@ def create_spt_model(
         cmd += " --normalization_rule_name=nmt_nfkc_cf"
 
     if sample_size > 0:
-        cmd += " --input_sentence_size={sample_size}"
+        cmd += f" --input_sentence_size={sample_size}"
 
     sentencepiece.SentencePieceTrainer.Train(cmd)
 
