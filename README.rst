@@ -26,8 +26,7 @@
 ===============
 Create State of the Art Models
 ------------------------------
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![vido_thumbnail](https://c1.staticflickr.com/3/2154/2054140257_58e87296b6.jpg)](https://drive.google.com/file/d/1hrd4FYM3m45JvtGGEgPosozOamq5hBgq/preview)
 
 Installation
 ~~~~~~~~~~~~
